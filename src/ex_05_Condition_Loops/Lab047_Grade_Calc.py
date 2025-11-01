@@ -31,4 +31,4 @@ else:
         print("Your grade is F")
 
 
-# float, abc - try catch.
+# float, python_dir - try catch.

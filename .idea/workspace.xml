@@ -4,20 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b850800-0605-4976-a990-e74b50403a7a" name="Changes" comment="18th Oct 2025">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab060_Built_In.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab061_Example_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab062_Example_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab063_Function_Parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab064_Type3_Function_return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab065_Function_Default_Parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab066_Functions_Return_Multiple_Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab067_Functions_Keyword_Arg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/LabQ01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/LabQ02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/LabQ03_REAL_Example.py" afterDir="false" />
+    <list default="true" id="6b850800-0605-4976-a990-e74b50403a7a" name="Changes" comment="30th Oct 2025">
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab068_User_Input_Pass_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab069_Functions_Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab070_Functions_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab071_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab072_Infinite_Args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab073_Real_Args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab075_Local_Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab077_Local_Var.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab078_Inner_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/python_dir/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Task009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Task010_Q.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab047_Grade_Calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab047_Grade_Calc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +130,14 @@
     "Python.Lab065_Function_Default_Parameter.executor": "Run",
     "Python.Lab066_Functions_Return_Multiple_Values.executor": "Run",
     "Python.Lab067_Functions_Keyword_Arg.executor": "Run",
+    "Python.Lab068_User_Input_Pass_Function.executor": "Run",
+    "Python.Lab070_Functions_IQ.executor": "Run",
+    "Python.Lab071_IQ.executor": "Run",
+    "Python.Lab072_Infinite_Args.executor": "Run",
+    "Python.Lab073_Real_Args.executor": "Run",
+    "Python.Lab075_Local_Variable.executor": "Run",
+    "Python.Lab077_Local_Var.executor": "Run",
+    "Python.Lab078_Inner_Functions.executor": "Run",
     "Python.LabForReverse.executor": "Run",
     "Python.LabForUsedRealLife.executor": "Run",
     "Python.LabMatch002.executor": "Run",
@@ -144,6 +154,8 @@
     "Python.Task006.executor": "Run",
     "Python.Task007.executor": "Run",
     "Python.Task008_Factorial.executor": "Run",
+    "Python.Task009.executor": "Run",
+    "Python.Task010_Q.executor": "Run",
     "Python.task_FizzBuzz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -172,8 +184,8 @@
       <recent name="$PROJECT_DIR$/src/ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.LabQ03_REAL_Example">
-    <configuration name="Lab065_Function_Default_Parameter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task010_Q">
+    <configuration name="Lab075_Local_Variable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,11 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_Functions/Lab065_Function_Default_Parameter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab075_Local_Variable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab066_Functions_Return_Multiple_Values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab077_Local_Var" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,11 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_Functions/Lab066_Functions_Return_Multiple_Values.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab077_Local_Var.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab067_Functions_Keyword_Arg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab078_Inner_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,11 +238,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_Functions/Lab067_Functions_Keyword_Arg.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab078_Inner_Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LabQ02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,11 +260,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_Functions/LabQ02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Task009.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LabQ03_REAL_Example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task010_Q" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -270,11 +282,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_Functions/LabQ03_REAL_Example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Task010_Q.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LabQ03_REAL_Example" />
-        <item itemvalue="Python.LabQ02" />
-        <item itemvalue="Python.Lab067_Functions_Keyword_Arg" />
-        <item itemvalue="Python.Lab066_Functions_Return_Multiple_Values" />
-        <item itemvalue="Python.Lab065_Function_Default_Parameter" />
+        <item itemvalue="Python.Task010_Q" />
+        <item itemvalue="Python.Task009" />
+        <item itemvalue="Python.Lab078_Inner_Functions" />
+        <item itemvalue="Python.Lab077_Local_Var" />
+        <item itemvalue="Python.Lab075_Local_Variable" />
       </list>
     </recent_temporary>
   </component>
@@ -366,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760754981654</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="30th Oct 2025">
+      <option name="closed" value="true" />
+      <created>1761791663128</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761791663128</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,7 +399,8 @@
     <MESSAGE value="14th Oct 2025" />
     <MESSAGE value="16th Oct 2025" />
     <MESSAGE value="18th Oct 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="18th Oct 2025" />
+    <MESSAGE value="30th Oct 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="30th Oct 2025" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearning$LabForReverse.coverage" NAME="LabForReverse Coverage Results" MODIFIED="1760753941841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_07_Loops/For" />
