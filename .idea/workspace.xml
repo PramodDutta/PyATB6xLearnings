@@ -4,22 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b850800-0605-4976-a990-e74b50403a7a" name="Changes" comment="30th Oct 2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab068_User_Input_Pass_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab069_Functions_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab070_Functions_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab071_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab072_Infinite_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab073_Real_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab075_Local_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab077_Local_Var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab078_Inner_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/python_dir/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Task009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Task010_Q.py" afterDir="false" />
+    <list default="true" id="6b850800-0605-4976-a990-e74b50403a7a" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab079_Decortors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab080_Decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab081_WithOutDecor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab082_Real_Decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab083_Decor_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab084_IQ_Leap_Year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/LabTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab087_Type_Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab088_IQ_Triangle_Classifier.p.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab090_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab091_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab092_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab093_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab094_User_Input_ODD_Even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab095_Lambda.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab047_Grade_Calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab047_Grade_Calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/Task_Grade_Calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Task_Grade_Calc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,119 +64,132 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab001_Python_Hello.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003_print.executor": "Run",
-    "Python.Lab004_Keyword.executor": "Run",
-    "Python.Lab005_Variable_Part1.executor": "Run",
-    "Python.Lab006_Identifier.executor": "Run",
-    "Python.Lab007_Variables_Names.executor": "Run",
-    "Python.Lab008_Dynamically_typed.executor": "Run",
-    "Python.Lab009_Identifier_Rule.executor": "Run",
-    "Python.Lab010_maths.executor": "Run",
-    "Python.Lab011_IQ_BODMAS.executor": "Run",
-    "Python.Lab012_Multiple_Variables.executor": "Run",
-    "Python.Lab013_Multiple_Prints.executor": "Run",
-    "Python.Lab014_Math_Functions.executor": "Run",
-    "Python.Lab015_IQ.executor": "Run",
-    "Python.Lab016_Literals.executor": "Run",
-    "Python.Lab019_Data_Type.executor": "Run",
-    "Python.Lab020_BuiltIn_Functions.executor": "Run",
-    "Python.Lab021_UserInput.executor": "Run",
-    "Python.Lab022_User_Input_Sum_Of_Two_numbers.executor": "Run",
-    "Python.Lab023_Strings.executor": "Run",
-    "Python.Lab024_Strings.executor": "Run",
-    "Python.Lab025_Strings.executor": "Run",
-    "Python.Lab027_Escape_Char.executor": "Run",
-    "Python.Lab028_String_Double_Single_Diff.executor": "Run",
-    "Python.Lab029_Task1.executor": "Run",
-    "Python.Lab030_Task2.executor": "Run",
-    "Python.Lab031_Arth_Op.executor": "Run",
-    "Python.Lab031_Operators.executor": "Run",
-    "Python.Lab031_UnaryOperator.executor": "Run",
-    "Python.Lab032_Comparision_Op.executor": "Run",
-    "Python.Lab033_Logic_Operator.executor": "Run",
-    "Python.Lab034_Operators_P2.executor": "Run",
-    "Python.Lab035_Operators_P4.executor": "Run",
-    "Python.Lab036_Operators_Comparsion.executor": "Run",
-    "Python.Lab037_Operators_Logical.executor": "Run",
-    "Python.Lab038_Operators_Example.executor": "Run",
-    "Python.Lab039_Operators_P8.executor": "Run",
-    "Python.Lab040_Operators_P9.executor": "Run",
-    "Python.Lab040_User_Input_Ternary_Operators.executor": "Run",
-    "Python.Lab041_Memership_Operator.executor": "Run",
-    "Python.Lab042_Identity_Operaor.executor": "Run",
-    "Python.Lab042_Math.executor": "Run",
-    "Python.Lab043_IF_Condition.executor": "Run",
-    "Python.Lab043_IF_Condition_Optimized.executor": "Run",
-    "Python.Lab044_ELSEIF.executor": "Run",
-    "Python.Lab044_Nested_IF_ELSEIF.executor": "Run",
-    "Python.Lab046_if_else_elif.executor": "Run",
-    "Python.Lab047_Grade_Calc.executor": "Run",
-    "Python.Lab048_Loop.executor": "Run",
-    "Python.Lab049_For_Loop.executor": "Run",
-    "Python.Lab050_For_Looops.executor": "Run",
-    "Python.Lab051_IQ.executor": "Run",
-    "Python.Lab053_While.executor": "Run",
-    "Python.Lab054_For_While_IQ.executor": "Run",
-    "Python.Lab055_For_break.executor": "Run",
-    "Python.Lab057_Pass_Break.executor": "Run",
-    "Python.Lab058_IQ.executor": "Run",
-    "Python.Lab059_Odd_Number.executor": "Run",
-    "Python.Lab061_Example_Functions.executor": "Run",
-    "Python.Lab062_Example_Functions.executor": "Run",
-    "Python.Lab063_Function_Parameter.executor": "Run",
-    "Python.Lab064_Type3_Function_return.executor": "Run",
-    "Python.Lab065_Function_Default_Parameter.executor": "Run",
-    "Python.Lab066_Functions_Return_Multiple_Values.executor": "Run",
-    "Python.Lab067_Functions_Keyword_Arg.executor": "Run",
-    "Python.Lab068_User_Input_Pass_Function.executor": "Run",
-    "Python.Lab070_Functions_IQ.executor": "Run",
-    "Python.Lab071_IQ.executor": "Run",
-    "Python.Lab072_Infinite_Args.executor": "Run",
-    "Python.Lab073_Real_Args.executor": "Run",
-    "Python.Lab075_Local_Variable.executor": "Run",
-    "Python.Lab077_Local_Var.executor": "Run",
-    "Python.Lab078_Inner_Functions.executor": "Run",
-    "Python.LabForReverse.executor": "Run",
-    "Python.LabForUsedRealLife.executor": "Run",
-    "Python.LabMatch002.executor": "Run",
-    "Python.LabPass_Vs_Continue_059.executor": "Run",
-    "Python.LabQ02.executor": "Run",
-    "Python.LabQ03_REAL_Example.executor": "Run",
-    "Python.LabSwitch001.executor": "Run",
-    "Python.LabWhile.executor": "Run",
-    "Python.LabWhile_Vs_For.executor": "Run",
-    "Python.Task001.executor": "Run",
-    "Python.Task002.executor": "Run",
-    "Python.Task003.executor": "Run",
-    "Python.Task005.executor": "Run",
-    "Python.Task006.executor": "Run",
-    "Python.Task007.executor": "Run",
-    "Python.Task008_Factorial.executor": "Run",
-    "Python.Task009.executor": "Run",
-    "Python.Task010_Q.executor": "Run",
-    "Python.task_FizzBuzz.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB6xLearning/src/ex_08_Functions",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab001_Python_Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004_Keyword.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005_Variable_Part1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006_Identifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007_Variables_Names.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008_Dynamically_typed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009_Identifier_Rule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010_maths.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011_IQ_BODMAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012_Multiple_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013_Multiple_Prints.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014_Math_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019_Data_Type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020_BuiltIn_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021_UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022_User_Input_Sum_Of_Two_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab024_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027_Escape_Char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028_String_Double_Single_Diff.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029_Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030_Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031_Arth_Op.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031_UnaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032_Comparision_Op.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033_Logic_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab034_Operators_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab035_Operators_P4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab036_Operators_Comparsion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab037_Operators_Logical.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab038_Operators_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab039_Operators_P8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab040_Operators_P9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab040_User_Input_Ternary_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab041_Memership_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab042_Identity_Operaor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab042_Math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab043_IF_Condition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab043_IF_Condition_Optimized.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab044_ELSEIF.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab044_Nested_IF_ELSEIF.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab046_if_else_elif.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab047_Grade_Calc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab048_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab049_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab050_For_Looops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab051_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab053_While.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab054_For_While_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab055_For_break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab057_Pass_Break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab058_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab059_Odd_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab061_Example_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab062_Example_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab063_Function_Parameter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab064_Type3_Function_return.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab065_Function_Default_Parameter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab066_Functions_Return_Multiple_Values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab067_Functions_Keyword_Arg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab068_User_Input_Pass_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab070_Functions_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab071_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab072_Infinite_Args.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab073_Real_Args.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab075_Local_Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab077_Local_Var.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab078_Inner_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab079_Decortors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab080_Decor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab082_Real_Decor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab083_Decor_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab084_IQ_Leap_Year.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab087_Type_Conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab090_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab091_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab094_User_Input_ODD_Even.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab095_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabForReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabForUsedRealLife.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabMatch002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabPass_Vs_Continue_059.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabQ02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabQ03_REAL_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabSwitch001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabTime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabWhile_Vs_For.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task008_Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task010_Q.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/promode/PycharmProjects/PyATB6xLearning/src/ex_18_OOps_Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ex_18_OOps_Python" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/ex_08_Functions" />
       <recent name="$PROJECT_DIR$/src/ex_05_Condition_Loops" />
       <recent name="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables" />
@@ -184,8 +199,8 @@
       <recent name="$PROJECT_DIR$/src/ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task010_Q">
-    <configuration name="Lab075_Local_Variable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab095_Lambda">
+    <configuration name="Lab087_Type_Conversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_11_TypeConversion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab075_Local_Variable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab087_Type_Conversion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab077_Local_Var" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab090_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,11 +231,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda_Function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab077_Local_Var.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab090_Lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab078_Inner_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab091_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda_Function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab078_Inner_Functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab091_Lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab094_User_Input_ODD_Even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -260,11 +275,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda_Function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Task009.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab094_User_Input_ODD_Even.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,7 +288,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task010_Q" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab095_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,11 +297,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda_Function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Task010_Q.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab095_Lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,11 +312,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task010_Q" />
-        <item itemvalue="Python.Task009" />
-        <item itemvalue="Python.Lab078_Inner_Functions" />
-        <item itemvalue="Python.Lab077_Local_Var" />
-        <item itemvalue="Python.Lab075_Local_Variable" />
+        <item itemvalue="Python.Lab095_Lambda" />
+        <item itemvalue="Python.Lab094_User_Input_ODD_Even" />
+        <item itemvalue="Python.Lab091_Lambda" />
+        <item itemvalue="Python.Lab090_Lambda" />
+        <item itemvalue="Python.Lab087_Type_Conversion" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +401,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761791663128</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1">
+      <option name="closed" value="true" />
+      <created>1761977462009</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761977462009</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,7 +423,8 @@
     <MESSAGE value="16th Oct 2025" />
     <MESSAGE value="18th Oct 2025" />
     <MESSAGE value="30th Oct 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="30th Oct 2025" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearning$LabForReverse.coverage" NAME="LabForReverse Coverage Results" MODIFIED="1760753941841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_07_Loops/For" />
