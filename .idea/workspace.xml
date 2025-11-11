@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b850800-0605-4976-a990-e74b50403a7a" name="Changes" comment="8 Nov 2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab111_Dict_Frequency_Char_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab112_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab113_Dict_IQ_Max_Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab114_IQ_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_Dup_Keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab116_IQ_count_vowel.py" afterDir="false" />
+    <list default="true" id="6b850800-0605-4976-a990-e74b50403a7a" name="Changes" comment="11 OV 2025">
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/Lab117_OOps_Class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -445,7 +439,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762569016418</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="11 OV 2025">
+      <option name="closed" value="true" />
+      <created>1762826219794</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1762826219794</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,7 +464,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="4 Nov 2025" />
     <MESSAGE value="8 Nov 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="8 Nov 2025" />
+    <MESSAGE value="11 OV 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="11 OV 2025" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearning$LabForReverse.coverage" NAME="LabForReverse Coverage Results" MODIFIED="1760753941841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_07_Loops/For" />
