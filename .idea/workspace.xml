@@ -4,22 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b850800-0605-4976-a990-e74b50403a7a" name="Changes" comment="4 Nov 2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab103_SET_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab104_SET_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_Extra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab106_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab107_Dict_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab108_Dict_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab109_Dict_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab110_Dict_Concepts.py" afterDir="false" />
+    <list default="true" id="6b850800-0605-4976-a990-e74b50403a7a" name="Changes" comment="8 Nov 2025">
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab111_Dict_Frequency_Char_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab112_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab113_Dict_IQ_Max_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab114_IQ_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_Dup_Keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab116_IQ_count_vowel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,6 +157,13 @@
     "Python.Lab108_Dict_Mul.executor": "Run",
     "Python.Lab109_Dict_Mul.executor": "Run",
     "Python.Lab110_Dict_Concepts.executor": "Run",
+    "Python.Lab111_Dict_Frequency_Char_String.executor": "Run",
+    "Python.Lab112_Dict.executor": "Run",
+    "Python.Lab113_Dict_IQ_Max_Values.executor": "Run",
+    "Python.Lab114_IQ_Dict.executor": "Run",
+    "Python.Lab115_Dict_Dup_Keys.executor": "Run",
+    "Python.Lab115_Dict_IQ.executor": "Run",
+    "Python.Lab116_IQ_count_vowel.executor": "Run",
     "Python.LabFilter01.executor": "Run",
     "Python.LabFilter02.executor": "Run",
     "Python.LabFilter03.executor": "Run",
@@ -220,8 +219,8 @@
       <recent name="$PROJECT_DIR$/src/ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab110_Dict_Concepts">
-    <configuration name="Lab106_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab116_IQ_count_vowel">
+    <configuration name="Lab113_Dict_IQ_Max_Values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,7 +233,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab106_Dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab113_Dict_IQ_Max_Values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab107_Dict_P2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab114_IQ_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,7 +255,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab107_Dict_P2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab114_IQ_Dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab108_Dict_Mul" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab115_Dict_Dup_Keys" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,7 +277,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab108_Dict_Mul.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_Dup_Keys.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +286,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab109_Dict_Mul" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab115_Dict_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -300,7 +299,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab109_Dict_Mul.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_IQ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,7 +308,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab110_Dict_Concepts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab116_IQ_count_vowel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -322,7 +321,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab110_Dict_Concepts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab116_IQ_count_vowel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,11 +332,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab110_Dict_Concepts" />
-        <item itemvalue="Python.Lab109_Dict_Mul" />
-        <item itemvalue="Python.Lab108_Dict_Mul" />
-        <item itemvalue="Python.Lab107_Dict_P2" />
-        <item itemvalue="Python.Lab106_Dict" />
+        <item itemvalue="Python.Lab116_IQ_count_vowel" />
+        <item itemvalue="Python.Lab115_Dict_IQ" />
+        <item itemvalue="Python.Lab115_Dict_Dup_Keys" />
+        <item itemvalue="Python.Lab114_IQ_Dict" />
+        <item itemvalue="Python.Lab113_Dict_IQ_Max_Values" />
       </list>
     </recent_temporary>
   </component>
@@ -438,7 +437,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762392972734</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="8 Nov 2025">
+      <option name="closed" value="true" />
+      <created>1762569016418</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762569016418</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,7 +461,8 @@
     <MESSAGE value="30th Oct 2025" />
     <MESSAGE value="1" />
     <MESSAGE value="4 Nov 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 Nov 2025" />
+    <MESSAGE value="8 Nov 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 Nov 2025" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearning$LabForReverse.coverage" NAME="LabForReverse Coverage Results" MODIFIED="1760753941841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_07_Loops/For" />
