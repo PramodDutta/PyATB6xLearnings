@@ -4,20 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b850800-0605-4976-a990-e74b50403a7a" name="Changes" comment="11 NOV 2025 - Part2">
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/01_Class_Object/Lab118_Class_Dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/01_Class_Object/Lab119_Class_Dog_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab119_Class_Dog_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab119_Class_Dog_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab120_Class_Dog_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab121_User_Input_Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab122_Calc_Non_PC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab123_Calc_PC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/03_Instance_Variable/Lab124_OOps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/03_Instance_Variable/Lab125_OOps.py" afterDir="false" />
+    <list default="true" id="6b850800-0605-4976-a990-e74b50403a7a" name="Changes" comment="18th Nove">
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/02_MI/Lab134_MI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/02_MI/Lab135_MI_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/03_ML/Lab136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/04_HI/Lab137_HI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/05_HB_I/Lab138_HybriD_I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/Lab139_REAL_AUTOMATION.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overriding/Lab140_MO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overriding/Lab141_MO.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_18_OOps_Python/Lab117_OOps_Class.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/01_Class_Object/Lab117_OOps_Class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/Task_TriaglePrinting.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Task_TriaglePrinting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/Lab133_Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/01_SI/Lab133_Inheritance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +173,20 @@
     "Python.Lab122_Calc_Non_PC.executor": "Run",
     "Python.Lab123_Calc_PC.executor": "Run",
     "Python.Lab125_OOps.executor": "Run",
+    "Python.Lab127_Encap.executor": "Run",
+    "Python.Lab128_Ecaps.executor": "Run",
+    "Python.Lab129_Ecaps_ENV.executor": "Run",
+    "Python.Lab130_Ecap_Example.executor": "Run",
+    "Python.Lab131_Ecap_Example.executor": "Run",
+    "Python.Lab132_Ecap_Personal.executor": "Run",
+    "Python.Lab133_Inheritance.executor": "Run",
+    "Python.Lab134_MI.executor": "Run",
+    "Python.Lab135_MI_2.executor": "Run",
+    "Python.Lab136.executor": "Run",
+    "Python.Lab137_HI.executor": "Run",
+    "Python.Lab138_HybriD_I.executor": "Run",
+    "Python.Lab139_REAL_AUTOMATION.executor": "Run",
+    "Python.Lab140_MO.executor": "Run",
     "Python.LabFilter01.executor": "Run",
     "Python.LabFilter02.executor": "Run",
     "Python.LabFilter03.executor": "Run",
@@ -186,6 +197,7 @@
     "Python.LabMap03.executor": "Run",
     "Python.LabMatch002.executor": "Run",
     "Python.LabPass_Vs_Continue_059.executor": "Run",
+    "Python.LabPublic_Private_Protected.executor": "Run",
     "Python.LabQ02.executor": "Run",
     "Python.LabQ03_REAL_Example.executor": "Run",
     "Python.LabSwitch001.executor": "Run",
@@ -228,13 +240,14 @@
       <recent name="$PROJECT_DIR$/src/ex_05_Condition_Loops" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/01_SI" />
       <recent name="$PROJECT_DIR$/src/ex_18_OOps_Python/01_Class_Object" />
       <recent name="$PROJECT_DIR$/src/ex_07_Loops/For" />
       <recent name="$PROJECT_DIR$/src/ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task_TriaglePrinting">
-    <configuration name="Lab121_User_Input_Person" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab141_MO">
+    <configuration name="Lab137_HI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,11 +256,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/04_HI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab121_User_Input_Person.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/04_HI/Lab137_HI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,7 +269,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab122_Calc_Non_PC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab138_HybriD_I" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,11 +278,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/05_HB_I" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab122_Calc_Non_PC.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/05_HB_I/Lab138_HybriD_I.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab123_Calc_PC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab139_REAL_AUTOMATION" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,11 +300,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab123_Calc_PC.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/Lab139_REAL_AUTOMATION.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,7 +313,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab125_OOps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab140_MO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -309,11 +322,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/03_Instance_Variable" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overriding" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/03_Instance_Variable/Lab125_OOps.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overriding/Lab140_MO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,7 +335,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_TriaglePrinting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab141_MO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -331,11 +344,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overriding" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Task_TriaglePrinting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overriding/Lab141_MO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,11 +359,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task_TriaglePrinting" />
-        <item itemvalue="Python.Lab125_OOps" />
-        <item itemvalue="Python.Lab123_Calc_PC" />
-        <item itemvalue="Python.Lab122_Calc_Non_PC" />
-        <item itemvalue="Python.Lab121_User_Input_Person" />
+        <item itemvalue="Python.Lab141_MO" />
+        <item itemvalue="Python.Lab140_MO" />
+        <item itemvalue="Python.Lab139_REAL_AUTOMATION" />
+        <item itemvalue="Python.Lab138_HybriD_I" />
+        <item itemvalue="Python.Lab137_HI" />
       </list>
     </recent_temporary>
   </component>
@@ -475,7 +488,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762828327346</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="13 Nov">
+      <option name="closed" value="true" />
+      <created>1763001254743</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1763001254743</updated>
+    </task>
+    <task id="LOCAL-00015" summary="18th Nove">
+      <option name="closed" value="true" />
+      <created>1763433267885</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1763433267885</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,7 +523,9 @@
     <MESSAGE value="8 Nov 2025" />
     <MESSAGE value="11 OV 2025" />
     <MESSAGE value="11 NOV 2025 - Part2" />
-    <option name="LAST_COMMIT_MESSAGE" value="11 NOV 2025 - Part2" />
+    <MESSAGE value="13 Nov" />
+    <MESSAGE value="18th Nove" />
+    <option name="LAST_COMMIT_MESSAGE" value="18th Nove" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearning$LabForReverse.coverage" NAME="LabForReverse Coverage Results" MODIFIED="1760753941841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_07_Loops/For" />
