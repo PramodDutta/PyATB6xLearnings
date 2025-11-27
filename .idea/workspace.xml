@@ -4,20 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b850800-0605-4976-a990-e74b50403a7a" name="Changes" comment="20th Nov">
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overloading/Lab142_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overloading/Lab143_All_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overloading/Lab143_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overloading/Lab144_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab145_All_AB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab146_ABC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab147_REAL_AUTOMATION.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab148_REAL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/07_Abstraction/Lab149_ABC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab150_Static.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab151_Static_Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab152_Static_All.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab153_Static_Non_Static.py" afterDir="false" />
+    <list default="true" id="6b850800-0605-4976-a990-e74b50403a7a" name="Changes" comment="22th Nov">
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab155_Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab156_ZeroDivError.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab157_TypeError.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab158_ValueError.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab159_IndexError.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab160_SyntaxError.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab161_Program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab161_Program_Fix_Try_Except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab162_Program_Fix_Try_Except_MULTIPLE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab163_Program_Fix_Try_Except_MULTIPLE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab164_Program_Fix_Try_Except_Finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab165_REAL_API_TESTING.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab166_Program_Try_Except_Else_Finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab167_OWN_EXP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab168_Custom_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab169_REAL_Selenium_Ex_TESTING.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab170_File_NOT_FOUND.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,6 +209,24 @@
     "Python.Lab151_Static_Method.executor": "Run",
     "Python.Lab152_Static_All.executor": "Run",
     "Python.Lab153_Static_Non_Static.executor": "Run",
+    "Python.Lab154_REAL_EXAMPLE.executor": "Run",
+    "Python.Lab155_Exceptions.executor": "Run",
+    "Python.Lab156_ZeroDivError.executor": "Run",
+    "Python.Lab157_TypeError.executor": "Run",
+    "Python.Lab157_ValueError.executor": "Run",
+    "Python.Lab159_IndexError.executor": "Run",
+    "Python.Lab160_SyntaxError.executor": "Run",
+    "Python.Lab161_Program.executor": "Run",
+    "Python.Lab161_Program_Fix_Try_Except.executor": "Run",
+    "Python.Lab162_Program_Fix_Try_Except_MULTIPLE.executor": "Run",
+    "Python.Lab163_Program_Fix_Try_Except_MULTIPLE.executor": "Run",
+    "Python.Lab164_Program_Fix_Try_Except_Finally.executor": "Run",
+    "Python.Lab165_REAL_API_TESTING.executor": "Run",
+    "Python.Lab166_Program_Try_Except_Else_Finally.executor": "Run",
+    "Python.Lab167_OWN_EXP.executor": "Run",
+    "Python.Lab168_Custom_Exception.executor": "Run",
+    "Python.Lab169_REAL_Selenium_Ex_TESTING.executor": "Run",
+    "Python.Lab170_File_NOT_FOUND.executor": "Run",
     "Python.LabFilter01.executor": "Run",
     "Python.LabFilter02.executor": "Run",
     "Python.LabFilter03.executor": "Run",
@@ -238,7 +260,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB6xLearning/src/ex_18_OOps_Python/06_Polymorphism/Method_Overloading",
+    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB6xLearning/src/ex_19_Exceptions",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -251,11 +273,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ex_19_Exceptions" />
       <recent name="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overloading" />
       <recent name="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor" />
       <recent name="$PROJECT_DIR$/src/ex_18_OOps_Python" />
       <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/ex_08_Functions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/ex_18_OOps_Python/Abstraction" />
@@ -265,8 +287,8 @@
       <recent name="$PROJECT_DIR$/src/ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab154_REAL_EXAMPLE">
-    <configuration name="Lab150_Static" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab170_File_NOT_FOUND">
+    <configuration name="Lab165_REAL_API_TESTING" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,11 +297,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab150_Static.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab165_REAL_API_TESTING.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +310,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab151_Static_Method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab167_OWN_EXP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -297,11 +319,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab151_Static_Method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab167_OWN_EXP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +332,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab152_Static_All" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab168_Custom_Exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,11 +341,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab152_Static_All.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab168_Custom_Exception.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,7 +354,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab153_Static_Non_Static" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab169_REAL_Selenium_Ex_TESTING" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -341,11 +363,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab153_Static_Non_Static.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab169_REAL_Selenium_Ex_TESTING.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,7 +376,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab154_REAL_EXAMPLE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab170_File_NOT_FOUND" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -363,11 +385,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/08_Static/Lab154_REAL_EXAMPLE.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab170_File_NOT_FOUND.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,11 +400,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab154_REAL_EXAMPLE" />
-        <item itemvalue="Python.Lab153_Static_Non_Static" />
-        <item itemvalue="Python.Lab152_Static_All" />
-        <item itemvalue="Python.Lab151_Static_Method" />
-        <item itemvalue="Python.Lab150_Static" />
+        <item itemvalue="Python.Lab170_File_NOT_FOUND" />
+        <item itemvalue="Python.Lab169_REAL_Selenium_Ex_TESTING" />
+        <item itemvalue="Python.Lab165_REAL_API_TESTING" />
+        <item itemvalue="Python.Lab168_Custom_Exception" />
+        <item itemvalue="Python.Lab167_OWN_EXP" />
       </list>
     </recent_temporary>
   </component>
@@ -531,7 +553,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763604890669</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="22th Nov">
+      <option name="closed" value="true" />
+      <created>1763778288443</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1763778288443</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +583,8 @@
     <MESSAGE value="13 Nov" />
     <MESSAGE value="18th Nove" />
     <MESSAGE value="20th Nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="20th Nov" />
+    <MESSAGE value="22th Nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="22th Nov" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearning$LabForReverse.coverage" NAME="LabForReverse Coverage Results" MODIFIED="1760753941841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_07_Loops/For" />
