@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b850800-0605-4976-a990-e74b50403a7a" name="Changes" comment="22th Nov">
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab155_Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab156_ZeroDivError.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab157_TypeError.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab158_ValueError.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab159_IndexError.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab160_SyntaxError.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab161_Program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab161_Program_Fix_Try_Except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab162_Program_Fix_Try_Except_MULTIPLE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab163_Program_Fix_Try_Except_MULTIPLE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab164_Program_Fix_Try_Except_Finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab165_REAL_API_TESTING.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab166_Program_Try_Except_Else_Finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab167_OWN_EXP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab168_Custom_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab169_REAL_Selenium_Ex_TESTING.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab170_File_NOT_FOUND.py" afterDir="false" />
+    <list default="true" id="6b850800-0605-4976-a990-e74b50403a7a" name="Changes" comment="27th Nov 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab170_File_NOT_FOUND.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Exceptions/Lab170_File_NOT_FOUND.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -561,7 +545,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763778288443</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="27th Nov 2025">
+      <option name="closed" value="true" />
+      <created>1764210148293</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1764210148293</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -584,7 +576,8 @@
     <MESSAGE value="18th Nove" />
     <MESSAGE value="20th Nov" />
     <MESSAGE value="22th Nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="22th Nov" />
+    <MESSAGE value="27th Nov 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="27th Nov 2025" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearning$LabForReverse.coverage" NAME="LabForReverse Coverage Results" MODIFIED="1760753941841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_07_Loops/For" />
